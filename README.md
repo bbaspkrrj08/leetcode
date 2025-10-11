@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
