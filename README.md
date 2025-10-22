@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/bbaspkrrj08/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0344-reverse-string) |
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
