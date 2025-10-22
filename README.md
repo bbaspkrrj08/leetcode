@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/bbaspkrrj08/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search Tree
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bbaspkrrj08/leetcode/tree/master/0231-power-of-two) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bbaspkrrj08/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
