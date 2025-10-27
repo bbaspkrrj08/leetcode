@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -104,18 +105,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
