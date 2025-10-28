@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bbaspkrrj08/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/bbaspkrrj08/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
 ## Math
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bbaspkrrj08/leetcode/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
