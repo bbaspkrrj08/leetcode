@@ -219,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/0203-remove-linked-list-elements) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
