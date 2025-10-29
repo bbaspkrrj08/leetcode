@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/bbaspkrrj08/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/bbaspkrrj08/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/bbaspkrrj08/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/bbaspkrrj08/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
