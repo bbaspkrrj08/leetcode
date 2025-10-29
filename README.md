@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Combinatorics
 |  |
 | ------- |
