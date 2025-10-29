@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2058-concatenation-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Greedy
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bbaspkrrj08/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bbaspkrrj08/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Tree
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
