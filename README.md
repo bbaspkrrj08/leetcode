@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1833-find-the-highest-altitude](https://github.com/bbaspkrrj08/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bbaspkrrj08/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Combinatorics
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
