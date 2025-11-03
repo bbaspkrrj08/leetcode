@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int totalMoney(int n) {
      int fullWeeks = n / 7;
         int remaining = n % 7;
@@ -6,10 +6,10 @@ class Solution {
         sum +=(remaining*(2*(fullWeeks+1)+(remaining-1)*1))/2;
         return sum;
     }
-}
+}*/
 
 
-/*class Solution {
+class Solution {
     public int totalMoney(int n) {
         int a=1;
         int d=1;
@@ -22,4 +22,4 @@ class Solution {
             }
             return sum;   
     }
-}*/
+}
