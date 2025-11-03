@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/bbaspkrrj08/leetcode/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bbaspkrrj08/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Sorting
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting Sort
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 ## Simulation
 |  |
 | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search Tree
 |  |
