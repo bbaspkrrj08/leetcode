@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/bbaspkrrj08/leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/bbaspkrrj08/leetcode/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1041-robot-bounded-in-circle](https://github.com/bbaspkrrj08/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1448-maximum-69-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/bbaspkrrj08/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Brainteaser
