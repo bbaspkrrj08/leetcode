@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/bbaspkrrj08/leetcode/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Geometry
 |  |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
