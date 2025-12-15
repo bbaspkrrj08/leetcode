@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/bbaspkrrj08/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bbaspkrrj08/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/bbaspkrrj08/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bbaspkrrj08/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bbaspkrrj08/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
