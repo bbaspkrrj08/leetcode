@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/bbaspkrrj08/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/bbaspkrrj08/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/bbaspkrrj08/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
