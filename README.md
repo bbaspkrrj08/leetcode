@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/bbaspkrrj08/leetcode/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
