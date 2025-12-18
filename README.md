@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0481-magical-string) |
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0481-magical-string) |
 | [1041-robot-bounded-in-circle](https://github.com/bbaspkrrj08/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/bbaspkrrj08/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
