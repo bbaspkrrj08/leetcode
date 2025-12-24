@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/bbaspkrrj08/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0226-invert-binary-tree) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -410,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bbaspkrrj08/leetcode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
