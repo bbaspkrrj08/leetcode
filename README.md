@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/bbaspkrrj08/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bbaspkrrj08/leetcode/tree/master/0547-number-of-provinces) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bbaspkrrj08/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/bbaspkrrj08/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/bbaspkrrj08/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -411,8 +413,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bbaspkrrj08/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/bbaspkrrj08/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/bbaspkrrj08/leetcode/tree/master/0547-number-of-provinces) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
