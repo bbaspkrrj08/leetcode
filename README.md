@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bbaspkrrj08/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
 | [1041-robot-bounded-in-circle](https://github.com/bbaspkrrj08/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [2058-concatenation-of-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2058-concatenation-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Backtracking
 |  |
@@ -419,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/bbaspkrrj08/leetcode/tree/master/0547-number-of-provinces) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
