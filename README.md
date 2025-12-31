@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bbaspkrrj08/leetcode/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
+| [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1833-find-the-highest-altitude](https://github.com/bbaspkrrj08/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0481-magical-string) |
 | [1041-robot-bounded-in-circle](https://github.com/bbaspkrrj08/leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/bbaspkrrj08/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
