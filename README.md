@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
