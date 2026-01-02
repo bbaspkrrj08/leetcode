@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/bbaspkrrj08/leetcode/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
