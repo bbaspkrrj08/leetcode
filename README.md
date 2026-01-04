@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/bbaspkrrj08/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
