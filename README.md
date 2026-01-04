@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bbaspkrrj08/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/bbaspkrrj08/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/bbaspkrrj08/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/bbaspkrrj08/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/bbaspkrrj08/leetcode/tree/master/0326-power-of-three) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bbaspkrrj08/leetcode/tree/master/0258-add-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bbaspkrrj08/leetcode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
 | [1041-robot-bounded-in-circle](https://github.com/bbaspkrrj08/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [2058-concatenation-of-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2058-concatenation-of-array) |
