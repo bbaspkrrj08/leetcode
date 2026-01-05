@@ -12,7 +12,7 @@ class Solution{
         }
         List<Integer> resultList=new ArrayList<>();
         boolean flip=true;
-        for(int k=0;k<=m+n;k++){
+        for(int k=0;k<=m+n-2;k++){
             List<Integer> diagonal=map.get(k);
             if(diagonal==null) continue;
             if(flip) Collections.reverse(diagonal);
