@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0932-beautiful-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/bbaspkrrj08/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/bbaspkrrj08/leetcode/tree/master/0997-find-the-town-judge) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0481-magical-string) |
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Simulation
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
+| [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
+| [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Geometry
 |  |
