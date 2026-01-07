@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/bbaspkrrj08/leetcode/tree/master/1390-four-divisors) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
 | [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
+| [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1833-find-the-highest-altitude](https://github.com/bbaspkrrj08/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
 | [1448-maximum-69-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1448-maximum-69-number) |
+| [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search Tree
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/bbaspkrrj08/leetcode/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
+| [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2352-equal-row-and-column-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -483,5 +487,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
