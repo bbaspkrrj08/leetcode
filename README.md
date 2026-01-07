@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/bbaspkrrj08/leetcode/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3794-reverse-string-prefix](https://github.com/bbaspkrrj08/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3794-reverse-string-prefix](https://github.com/bbaspkrrj08/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
