@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/bbaspkrrj08/leetcode/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0932-beautiful-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bbaspkrrj08/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bbaspkrrj08/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bbaspkrrj08/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0932-beautiful-array) |
 ## Linked List
@@ -498,6 +502,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
