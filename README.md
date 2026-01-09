@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
+| [0966-vowel-spellchecker](https://github.com/bbaspkrrj08/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0994-rotting-oranges](https://github.com/bbaspkrrj08/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/bbaspkrrj08/leetcode/tree/master/0997-find-the-town-judge) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0481-magical-string) |
 | [0763-partition-labels](https://github.com/bbaspkrrj08/leetcode/tree/master/0763-partition-labels) |
+| [0966-vowel-spellchecker](https://github.com/bbaspkrrj08/leetcode/tree/master/0966-vowel-spellchecker) |
 | [1041-robot-bounded-in-circle](https://github.com/bbaspkrrj08/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/bbaspkrrj08/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/bbaspkrrj08/leetcode/tree/master/0763-partition-labels) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0966-vowel-spellchecker](https://github.com/bbaspkrrj08/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0997-find-the-town-judge](https://github.com/bbaspkrrj08/leetcode/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
