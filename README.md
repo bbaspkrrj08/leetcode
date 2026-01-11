@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bbaspkrrj08/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/bbaspkrrj08/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/bbaspkrrj08/leetcode/tree/master/0134-gas-station) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bbaspkrrj08/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bbaspkrrj08/leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/bbaspkrrj08/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/bbaspkrrj08/leetcode/tree/master/0898-transpose-matrix) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/bbaspkrrj08/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bbaspkrrj08/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
 | [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
