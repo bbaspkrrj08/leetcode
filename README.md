@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bbaspkrrj08/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/bbaspkrrj08/leetcode/tree/master/2652-sum-multiples) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/bbaspkrrj08/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
