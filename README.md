@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2562-find-the-array-concatenation-value](https://github.com/bbaspkrrj08/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/bbaspkrrj08/leetcode/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/bbaspkrrj08/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/bbaspkrrj08/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3794-reverse-string-prefix](https://github.com/bbaspkrrj08/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2058-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2562-find-the-array-concatenation-value](https://github.com/bbaspkrrj08/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Backtracking
 |  |
