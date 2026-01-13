@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/bbaspkrrj08/leetcode/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/bbaspkrrj08/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/bbaspkrrj08/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/bbaspkrrj08/leetcode/tree/master/2652-sum-multiples) |
 | [2864-maximum-odd-binary-number](https://github.com/bbaspkrrj08/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/bbaspkrrj08/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/bbaspkrrj08/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2352-equal-row-and-column-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/bbaspkrrj08/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/bbaspkrrj08/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
