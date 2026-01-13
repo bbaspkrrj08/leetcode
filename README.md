@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2864-maximum-odd-binary-number](https://github.com/bbaspkrrj08/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bbaspkrrj08/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/bbaspkrrj08/leetcode/tree/master/2652-sum-multiples) |
+| [2864-maximum-odd-binary-number](https://github.com/bbaspkrrj08/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/bbaspkrrj08/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2864-maximum-odd-binary-number](https://github.com/bbaspkrrj08/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/bbaspkrrj08/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
