@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2485-find-the-pivot-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2544-alternating-digit-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/bbaspkrrj08/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
