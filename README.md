@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1390-four-divisors](https://github.com/bbaspkrrj08/leetcode/tree/master/1390-four-divisors) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/bbaspkrrj08/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bbaspkrrj08/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
