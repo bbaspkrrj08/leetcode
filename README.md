@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0226-invert-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/bbaspkrrj08/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bbaspkrrj08/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bbaspkrrj08/leetcode/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/bbaspkrrj08/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0695-max-area-of-island](https://github.com/bbaspkrrj08/leetcode/tree/master/0695-max-area-of-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bbaspkrrj08/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bbaspkrrj08/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0226-invert-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/bbaspkrrj08/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
