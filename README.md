@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/bbaspkrrj08/leetcode/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/bbaspkrrj08/leetcode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/bbaspkrrj08/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1251-average-selling-price](https://github.com/bbaspkrrj08/leetcode/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/bbaspkrrj08/leetcode/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/bbaspkrrj08/leetcode/tree/master/1415-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/bbaspkrrj08/leetcode/tree/master/1683-invalid-tweets) |
