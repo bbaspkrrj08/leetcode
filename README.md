@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/bbaspkrrj08/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Merge Sort
 |  |
 | ------- |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bbaspkrrj08/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/bbaspkrrj08/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Union-Find
 |  |
 | ------- |
@@ -669,4 +671,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/bbaspkrrj08/leetcode/tree/master/0841-keys-and-rooms) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/bbaspkrrj08/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Shortest Path
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/bbaspkrrj08/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
