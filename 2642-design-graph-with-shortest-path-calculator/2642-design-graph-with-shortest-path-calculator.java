@@ -1,46 +1,62 @@
 class Graph {
-    public class DesignGraphWithShortestPathCalculator {
-        
+    static class Pair {
+        int node, cost;
+        Pair(int node, int cost) {
+            this.node = node;
+            this.cost = cost;
+        }
     }
-List<List<int[]>> adj;
-public Graph(int n, int[][] edges) {
-       
+    List<List<int[]>> adj;
+    public Graph(int n, int[][] edges) {
         adj = new ArrayList<>();
-        for(int i=0; i<n; i++)
+        for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
+        }
 
-        for(int[] edge : edges)
-            addEdge(edge);
+        for (int[] e : edges) {
+            int u = e[0];
+            int v = e[1];
+            int w = e[2];
+
+            adj.get(u).add(new int[]{v, w});
+        }
     }
 
     public void addEdge(int[] edge) {
-        adj.get(edge[0]).add(new int[]{edge[1], edge[2]});
+        int u = edge[0];
+        int v = edge[1];
+        int w = edge[2];
+
+        adj.get(u).add(new int[]{v, w});
     }
 
     public int shortestPath(int node1, int node2) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));  
         int n = adj.size();
-        int[] costForNode = new int[n];
-        Arrays.fill(costForNode, Integer.MAX_VALUE);
+        int[] dist = new int[n];
+        Arrays.fill(dist, Integer.MAX_VALUE);
 
-        costForNode[node1] = 0;
-        pq.offer(new int[]{0, node1});
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.cost - b.cost);
 
-        while(!pq.isEmpty()){
-            int[] curr = pq.poll();
-            int currCost = curr[0], currNode = curr[1];if(currNode == node2)
-                return currCost;
+        pq.offer(new Pair(node1, 0));
+        dist[node1] = 0;
 
-            if(currCost > costForNode[currNode])
-                continue;
+        while (!pq.isEmpty()) {
+            Pair cur = pq.poll();
+            int node = cur.node;
+            int cost = cur.cost;
 
-            for(int[] neighbor : adj.get(currNode)){
-                int neighborNode = neighbor[0], neighborCost = neighbor[1];
-                int newCost = currCost + neighborCost;
+            if (node == node2) return cost;
+            if (cost > dist[node]) continue;
 
-                if(newCost < costForNode[neighborNode]){
-                    costForNode[neighborNode] = newCost;
-                    pq.offer(new int[]{newCost, neighborNode});
+            List<int[]> neighbors = adj.get(node);
+            for (int i = 0; i < neighbors.size(); i++) {
+                int[] next = neighbors.get(i);
+                int ne = next[0];
+                int newCost = cost + next[1];
+
+                if (newCost < dist[ne]) {
+                    dist[ne] = newCost;
+                    pq.offer(new Pair(ne, newCost));
                 }
             }
         }
@@ -48,4 +64,3 @@ public Graph(int n, int[][] edges) {
         return -1;
     }
 }
-
