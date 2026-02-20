@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/bbaspkrrj08/leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/bbaspkrrj08/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/bbaspkrrj08/leetcode/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/bbaspkrrj08/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/bbaspkrrj08/leetcode/tree/master/0299-bulls-and-cows) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/bbaspkrrj08/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bbaspkrrj08/leetcode/tree/master/0198-house-robber) |
