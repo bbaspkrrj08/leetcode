@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/bbaspkrrj08/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0695-max-area-of-island](https://github.com/bbaspkrrj08/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bbaspkrrj08/leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/bbaspkrrj08/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bbaspkrrj08/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bbaspkrrj08/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/bbaspkrrj08/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bbaspkrrj08/leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/bbaspkrrj08/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/bbaspkrrj08/leetcode/tree/master/0994-rotting-oranges) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/bbaspkrrj08/leetcode/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -677,10 +681,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/bbaspkrrj08/leetcode/tree/master/0841-keys-and-rooms) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/bbaspkrrj08/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/bbaspkrrj08/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
