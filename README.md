@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/bbaspkrrj08/leetcode/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/bbaspkrrj08/leetcode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/bbaspkrrj08/leetcode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/bbaspkrrj08/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1211-queries-quality-and-percentage](https://github.com/bbaspkrrj08/leetcode/tree/master/1211-queries-quality-and-percentage) |
