@@ -199,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3021-alice-and-bob-playing-flower-game](https://github.com/bbaspkrrj08/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bbaspkrrj08/leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/bbaspkrrj08/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
