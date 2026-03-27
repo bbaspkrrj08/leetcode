@@ -12,9 +12,8 @@ class Solution {
 
         dp = new int[n + 1][2][k + 1];
         for (int i = 0; i <= n; i++) {
-            for (int j = 0; j < 2; j++) {
-                Arrays.fill(dp[i][j], -1);
-            }
+            Arrays.fill(dp[i][0], -1);
+            Arrays.fill(dp[i][1], -1);
         }
 
         return f(0, 0, 0);
