@@ -1,31 +1,42 @@
+import java.util.*;
+
 class Solution {
+    int[][][] dp;
+    int[] nums;
+    int k, n;
+
     public int maxProfit(int k, int[] prices) {
-        if (prices == null || prices.length < 2) return 0;
-        
-        if (k >= prices.length / 2) {
-            int profit = 0;
-            for (int i = 1; i < prices.length; i++) {
-                if (prices[i] > prices[i - 1]) {
-                    profit += prices[i] - prices[i - 1];
-                }
-            }
-            return profit;
-        }
-        
-        int[] buy = new int[k + 1];
-        int[] sell = new int[k + 1];
-        
-        for (int i = 0; i <= k; i++) {
-            buy[i] = Integer.MIN_VALUE;
-        }
-        
-        for (int price : prices) {
-            for (int j = 1; j <= k; j++) {
-                buy[j] = Math.max(buy[j], sell[j - 1] - price);
-                sell[j] = Math.max(sell[j], buy[j] + price);
+        this.nums = prices;
+        this.k = k;
+        this.n = prices.length;
+
+        dp = new int[n + 1][2][k + 1];
+        for (int i = 0; i <= n; i++) {
+            for (int j = 0; j < 2; j++) {
+                Arrays.fill(dp[i][j], -1);
             }
         }
-        
-        return sell[k];
+
+        return f(0, 0, 0);
+    }
+
+    public int f(int i, int buy, int t) {
+        if (i == n || t == k) return 0;
+
+        if (dp[i][buy][t] != -1) return dp[i][buy][t];
+
+        int c1, c2;
+
+        if (buy == 0)
+            c1 = -nums[i] + f(i + 1, 1, t);
+        else
+            c1 = nums[i] + f(i + 1, 0, t + 1);
+
+        if (buy == 0)
+            c2 = f(i + 1, 0, t);
+        else
+            c2 = f(i + 1, 1, t);
+
+        return dp[i][buy][t] = Math.max(c1, c2);
     }
 }
