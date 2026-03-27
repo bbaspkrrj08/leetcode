@@ -20,9 +20,11 @@ class Solution {
     }
 
     public int f(int i, int buy, int t) {
-        if (i == n || t == k) return 0;
+        if (i == n || t == k)
+            return 0;
 
-        if (dp[i][buy][t] != -1) return dp[i][buy][t];
+        if (dp[i][buy][t] != -1)
+            return dp[i][buy][t];
 
         int c1, c2;
 
