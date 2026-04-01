@@ -1,30 +1,40 @@
 class Solution {
-    private static final int MOD = 1_000_000_007;
-
+    int MOD = 1_000_000_007;
+    Integer[][][] memo;
+    
     public int checkRecord(int n) {
-        if (n == 0) return 1;
+        memo = new Integer[n + 1][2][3];
+        return f(0, n, 0, 0);
+    }
+    
+    private int f(int i, int n, int ab, int l) {
         
-        long[] dp = new long[n + 1];
-        dp[0] = 1;
-        
-        // Proper base cases
-        if (n >= 1) dp[1] = 2;  // P, L
-        if (n >= 2) dp[2] = 4;  // PP, PL, LP, LL
-        
-        // Fill rest using recurrence
-        for (int i = 3; i <= n; i++) {
-            dp[i] = (dp[i - 1] + dp[i - 2] + dp[i - 3]) % MOD;
+        if (i >= n) {
+            return 1;
         }
         
-        long total = dp[n];  // 0 Absent case
-        
-        // 1 Absent case: 'A' at each position
-        for (int i = 0; i < n; i++) {
-            long left = dp[i];
-            long right = dp[n - 1 - i];
-            total = (total + (left * right) % MOD) % MOD;
+        // Memoization check
+        if (memo[i][ab][l] != null) {
+            return memo[i][ab][l];
         }
         
-        return (int) total;
+        
+        int c1 = f(i + 1, n, ab, 0);
+        
+        
+        int c2 = 0;
+        if (ab == 0) {
+            c2 = f(i + 1, n, ab + 1, 0);
+        }
+        
+        
+        int c3 = 0;
+        if (l < 2) {
+            c3 = f(i + 1, n, ab, l + 1);
+        }
+        
+        
+        int total = ((c1 + c2) % MOD + c3) % MOD;
+        return memo[i][ab][l] = total;
     }
 }
