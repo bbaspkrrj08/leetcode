@@ -1,27 +1,30 @@
 class Solution {
+    private static final int MOD = 1_000_000_007;
+
     public int checkRecord(int n) {
-        long MOD = 1_000_000_007;
+        if (n == 0) return 1;
         
-        long a0l0 = 1, a0l1 = 0, a0l2 = 0;
-        long a1l0 = 0, a1l1 = 0, a1l2 = 0;
+        long[] dp = new long[n + 1];
+        dp[0] = 1;
         
-        for (int i = 0; i < n; i++) {
-            long na0l0 = (a0l0 + a0l1 + a0l2) % MOD;
-            long na0l1 = a0l0;
-            long na0l2 = a0l1;
-            long na1l0 = (a1l0 + a1l1 + a1l2 + a0l0 + a0l1 + a0l2) % MOD;
-            long na1l1 = a1l0;
-            long na1l2 = a1l1;
-            
-            a0l0 = na0l0;
-            a0l1 = na0l1;
-            a0l2 = na0l2;
-            a1l0 = na1l0;
-            a1l1 = na1l1;
-            a1l2 = na1l2;
+        // Proper base cases
+        if (n >= 1) dp[1] = 2;  // P, L
+        if (n >= 2) dp[2] = 4;  // PP, PL, LP, LL
+        
+        // Fill rest using recurrence
+        for (int i = 3; i <= n; i++) {
+            dp[i] = (dp[i - 1] + dp[i - 2] + dp[i - 3]) % MOD;
         }
         
-        long total = (a0l0 + a0l1 + a0l2 + a1l0 + a1l1 + a1l2) % MOD;
+        long total = dp[n];  // 0 Absent case
+        
+        // 1 Absent case: 'A' at each position
+        for (int i = 0; i < n; i++) {
+            long left = dp[i];
+            long right = dp[n - 1 - i];
+            total = (total + (left * right) % MOD) % MOD;
+        }
+        
         return (int) total;
     }
 }
