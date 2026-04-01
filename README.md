@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/bbaspkrrj08/leetcode/tree/master/1258-article-views-i) |
 | [1321-restaurant-growth](https://github.com/bbaspkrrj08/leetcode/tree/master/1321-restaurant-growth) |
 | [1415-students-and-examinations](https://github.com/bbaspkrrj08/leetcode/tree/master/1415-students-and-examinations) |
+| [1484-group-sold-products-by-the-date](https://github.com/bbaspkrrj08/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bbaspkrrj08/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/bbaspkrrj08/leetcode/tree/master/1683-invalid-tweets) |
