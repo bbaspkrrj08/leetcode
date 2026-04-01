@@ -1,6 +1,6 @@
 class Solution {
 public int checkRecord(int n) {
-int MOD = 1_000_000_007;
+int MOD = 1000000007; 
 long[][][] state = new long[n + 1][2][3];
     for (int ab = 0; ab < 2; ab++) {
         for (int l = 0; l < 3; l++) {
