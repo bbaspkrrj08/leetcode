@@ -1,9 +1,9 @@
 class Solution {
     int MOD = 1_000_000_007;
-    Integer[][][] memo;
+    Integer[][][] dp;
     
     public int checkRecord(int n) {
-        memo = new Integer[n + 1][2][3];
+        dp = new Integer[n + 1][2][3];
         return f(0, n, 0, 0);
     }
     
@@ -13,9 +13,9 @@ class Solution {
             return 1;
         }
         
-        // Memoization check
-        if (memo[i][ab][l] != null) {
-            return memo[i][ab][l];
+        
+        if (dp[i][ab][l] != null) {
+            return dp[i][ab][l];
         }
         
         
@@ -35,6 +35,6 @@ class Solution {
         
         
         int total = ((c1 + c2) % MOD + c3) % MOD;
-        return memo[i][ab][l] = total;
+        return dp[i][ab][l] = total;
     }
 }
