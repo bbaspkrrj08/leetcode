@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bbaspkrrj08/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0140-word-break-ii) |
+| [0401-binary-watch](https://github.com/bbaspkrrj08/leetcode/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bbaspkrrj08/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bbaspkrrj08/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bbaspkrrj08/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/bbaspkrrj08/leetcode/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
