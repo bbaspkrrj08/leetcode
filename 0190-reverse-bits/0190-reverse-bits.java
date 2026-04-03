@@ -1,11 +1,18 @@
 class Solution {
-  public int reverseBits(int n) {
-    int result=0;
-    for (int i=0 ;i<32; i++) {
-      result=result<<1;
-      result=result | (n & 1);
-      n=n>>>1;
+    public int reverseBits(int n) {
+        int bits = 32;
+
+        int ans = 0;
+        // O(32)
+        while(bits > 0) {
+            //ans = ans<<1;
+            if((n & 1) > 0) {
+                ans = (ans | 1);
+            }
+            n = n>>1;
+            ans = (bits>1) ? ans<<1  : ans;
+            bits--;
+        }
+        return ans;
     }
-    return result;
-  }
 }
