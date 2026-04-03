@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/bbaspkrrj08/leetcode/tree/master/2751-robot-collisions) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bbaspkrrj08/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting Sort
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2707-extra-characters-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Monotonic Stack
 |  |
 | ------- |
