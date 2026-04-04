@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2058-concatenation-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/bbaspkrrj08/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bbaspkrrj08/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bbaspkrrj08/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [2090-k-radius-subarray-averages](https://github.com/bbaspkrrj08/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bbaspkrrj08/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
