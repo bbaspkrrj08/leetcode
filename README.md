@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/bbaspkrrj08/leetcode/tree/master/0481-magical-string) |
+| [0520-detect-capital](https://github.com/bbaspkrrj08/leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/bbaspkrrj08/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0763-partition-labels](https://github.com/bbaspkrrj08/leetcode/tree/master/0763-partition-labels) |
 | [0966-vowel-spellchecker](https://github.com/bbaspkrrj08/leetcode/tree/master/0966-vowel-spellchecker) |
