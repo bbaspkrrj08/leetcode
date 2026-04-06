@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/bbaspkrrj08/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/bbaspkrrj08/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bbaspkrrj08/leetcode/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/bbaspkrrj08/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0165-compare-version-numbers) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/bbaspkrrj08/leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bbaspkrrj08/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/bbaspkrrj08/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bbaspkrrj08/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
