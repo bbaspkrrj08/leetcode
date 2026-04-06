@@ -1,41 +1,40 @@
 class Solution {
+
+    int[] dp;
+
     public int minCut(String s) {
         int n = s.length();
+        dp = new int[n];
+        Arrays.fill(dp, -1);
 
-        
-        boolean[][] isPal = new boolean[n][n];
+        return f(0, s) - 1;
+    }
 
-        for (int gap = 0; gap < n; gap++) {
-            for (int i = 0, j = gap; j < n; i++, j++) {
-                if (gap == 0) {
-                    isPal[i][j] = true;
-                } else if (gap == 1) {
-                    isPal[i][j] = (s.charAt(i) == s.charAt(j));
-                } else {
-                    isPal[i][j] = (s.charAt(i) == s.charAt(j)) && isPal[i+1][j-1];
-                }
+    int f(int i, String s) {
+        int n = s.length();
+
+        if (i == n) return 0;
+
+        if (dp[i] != -1) return dp[i];  // 🔥 THIS FIX
+
+        int minCuts = Integer.MAX_VALUE;
+
+        for (int j = i; j < n; j++) {
+            if (isPalindrome(s, i, j)) {
+                int cuts = 1 + f(j + 1, s);
+                minCuts = Math.min(minCuts, cuts);
             }
         }
 
-        // Step 2: DP for min cuts
-        int[] dp = new int[n];
+        return dp[i] = minCuts;
+    }
 
-        for (int i = 0; i < n; i++) {
-            if (isPal[0][i]) {
-                dp[i] = 0;
-            } else {
-                int min = Integer.MAX_VALUE;
-
-                for (int j = 0; j < i; j++) {
-                    if (isPal[j+1][i]) {
-                        min = Math.min(min, dp[j] + 1);
-                    }
-                }
-
-                dp[i] = min;
-            }
+    boolean isPalindrome(String s, int l, int r) {
+        while (l < r) {
+            if (s.charAt(l) != s.charAt(r)) return false;
+            l++;
+            r--;
         }
-
-        return dp[n-1];
+        return true;
     }
 }
