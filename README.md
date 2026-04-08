@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/bbaspkrrj08/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2751-robot-collisions](https://github.com/bbaspkrrj08/leetcode/tree/master/2751-robot-collisions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0932-beautiful-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
 | ------- |
