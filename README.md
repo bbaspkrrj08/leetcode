@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bbaspkrrj08/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/bbaspkrrj08/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/bbaspkrrj08/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2751-robot-collisions](https://github.com/bbaspkrrj08/leetcode/tree/master/2751-robot-collisions) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bbaspkrrj08/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/bbaspkrrj08/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bbaspkrrj08/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bbaspkrrj08/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Recursion
 |  |
