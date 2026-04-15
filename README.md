@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bbaspkrrj08/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/bbaspkrrj08/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-percentage-of-letter-in-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2707-extra-characters-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/bbaspkrrj08/leetcode/tree/master/2864-maximum-odd-binary-number) |
