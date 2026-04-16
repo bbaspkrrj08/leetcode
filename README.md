@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/bbaspkrrj08/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bbaspkrrj08/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/bbaspkrrj08/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1901-find-a-peak-element-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3488-closest-equal-element-queries](https://github.com/bbaspkrrj08/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search Tree
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bbaspkrrj08/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bbaspkrrj08/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bbaspkrrj08/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3488-closest-equal-element-queries](https://github.com/bbaspkrrj08/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bbaspkrrj08/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
