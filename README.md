@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bbaspkrrj08/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/bbaspkrrj08/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bbaspkrrj08/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/bbaspkrrj08/leetcode/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/bbaspkrrj08/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1514-path-with-maximum-probability](https://github.com/bbaspkrrj08/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/bbaspkrrj08/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bbaspkrrj08/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -856,4 +858,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bbaspkrrj08/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0140-word-break-ii) |
 | [2707-extra-characters-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2707-extra-characters-in-a-string) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/bbaspkrrj08/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
