@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2751-robot-collisions](https://github.com/bbaspkrrj08/leetcode/tree/master/2751-robot-collisions) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/bbaspkrrj08/leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/bbaspkrrj08/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bbaspkrrj08/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/bbaspkrrj08/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Combinatorics
 |  |
