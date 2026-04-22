@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/bbaspkrrj08/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1833-find-the-highest-altitude](https://github.com/bbaspkrrj08/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bbaspkrrj08/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bbaspkrrj08/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/bbaspkrrj08/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/bbaspkrrj08/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/bbaspkrrj08/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bbaspkrrj08/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/bbaspkrrj08/leetcode/tree/master/0695-max-area-of-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
 | ------- |
