@@ -1,18 +1,19 @@
-import java.util.*;
-
 class Solution {
     public int lastStoneWeightII(int[] stones) {
-        Set<Integer> set = new HashSet<>();
+
+        java.util.HashSet<Integer> set = new java.util.HashSet<>();
         set.add(0);
 
         int total = 0;
 
-        for (int stone : stones) {
+        for (int i = 0; i < stones.length; i++) {
+            int stone = stones[i];
             total += stone;
 
-            Set<Integer> newSet = new HashSet<>(set);
+            java.util.HashSet<Integer> newSet = new java.util.HashSet<>();
 
             for (int s : set) {
+                newSet.add(s);
                 newSet.add(s + stone);
             }
 
@@ -20,14 +21,14 @@ class Solution {
         }
 
         int half = total / 2;
-        int closest = 0;
+        int s1 = 0;
 
         for (int s : set) {
-            if (s <= half) {
-                closest = Math.max(closest, s);
+            if (s <= half && s > s1) {
+                s1 = s;
             }
         }
 
-        return total - 2 * closest;
+        return total - 2 * s1;
     }
 }
