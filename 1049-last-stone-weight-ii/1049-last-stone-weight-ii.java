@@ -1,28 +1,33 @@
+import java.util.*;
+
 class Solution {
     public int lastStoneWeightII(int[] stones) {
-        int n = stones.length;
-        
-        int sum = 0;
-        for(int i = 0; i < n; i++) {
-            sum += stones[i];
+        Set<Integer> set = new HashSet<>();
+        set.add(0);
+
+        int total = 0;
+
+        for (int stone : stones) {
+            total += stone;
+
+            Set<Integer> newSet = new HashSet<>(set);
+
+            for (int s : set) {
+                newSet.add(s + stone);
+            }
+
+            set = newSet;
         }
 
-        boolean[] dp = new boolean[sum + 1];
-        dp[0] = true;
+        int half = total / 2;
+        int closest = 0;
 
-        for(int i = 0; i < n; i++) {
-            for(int j = sum; j >= stones[i]; j--) {
-                dp[j] = dp[j] || dp[j - stones[i]];
+        for (int s : set) {
+            if (s <= half) {
+                closest = Math.max(closest, s);
             }
         }
 
-        int ans = Integer.MAX_VALUE;
-        for(int i = 0; i <= sum / 2; i++) {
-            if(dp[i]) {
-                ans = Math.min(ans, sum - 2 * i);
-            }
-        }
-
-        return ans;
+        return total - 2 * closest;
     }
 }
