@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/bbaspkrrj08/leetcode/tree/master/0997-find-the-town-judge) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1043-partition-array-for-maximum-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1049-last-stone-weight-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bbaspkrrj08/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/bbaspkrrj08/leetcode/tree/master/1390-four-divisors) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0935-knight-dialer](https://github.com/bbaspkrrj08/leetcode/tree/master/0935-knight-dialer) |
 | [1043-partition-array-for-maximum-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1049-last-stone-weight-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bbaspkrrj08/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
