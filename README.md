@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bbaspkrrj08/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/bbaspkrrj08/leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bbaspkrrj08/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0140-word-break-ii) |
 | [0401-binary-watch](https://github.com/bbaspkrrj08/leetcode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bbaspkrrj08/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bbaspkrrj08/leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bbaspkrrj08/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
