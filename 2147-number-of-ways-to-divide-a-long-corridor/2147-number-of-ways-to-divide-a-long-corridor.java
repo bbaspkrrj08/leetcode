@@ -1,23 +1,44 @@
 class Solution {
+    int MOD = 1_000_000_007;
+    Integer[][] memo;
+    String corridor;
+    int n;
+
     public int numberOfWays(String corridor) {
-        int MOD = 1_000_000_007;
-        int n = corridor.length();
-        int[][] dp = new int[n + 1][3];
+        this.corridor = corridor;
+        this.n = corridor.length();
+        this.memo = new Integer[n][3];
         
-        dp[n][2] = 1;
+        return solve(0, 0);
+    }
+
+    private int solve(int i, int seats) {
+        if (i == n) {
+            return seats == 2 ? 1 : 0;
+        }
+
+        if (memo[i][seats] != null) {
+            return memo[i][seats];
+        }
+
+        long ways = 0;
         
-        for (int i = n - 1; i >= 0; i--) {
+        if (seats == 2) {
             if (corridor.charAt(i) == 'S') {
-                dp[i][0] = dp[i + 1][1];
-                dp[i][1] = dp[i + 1][2];
-                dp[i][2] = dp[i + 1][1];
+                ways = solve(i + 1, 1); 
             } else {
-                dp[i][0] = dp[i + 1][0];
-                dp[i][1] = dp[i + 1][1];
-                dp[i][2] = (dp[i + 1][0] + dp[i + 1][2]) % MOD;
+                int putDivider = solve(i + 1, 0);
+                int skipDivider = solve(i + 1, 2);
+                ways = (putDivider + skipDivider) % MOD;
+            }
+        } else {
+            if (corridor.charAt(i) == 'S') {
+                ways = solve(i + 1, seats + 1);
+            } else {
+                ways = solve(i + 1, seats);
             }
         }
-        
-        return dp[0][0];
+
+        return memo[i][seats] = (int) ways;
     }
 }
