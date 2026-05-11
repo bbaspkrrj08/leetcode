@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bbaspkrrj08/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/bbaspkrrj08/leetcode/tree/master/0830-largest-triangle-area) |
 | [0899-orderly-queue](https://github.com/bbaspkrrj08/leetcode/tree/master/0899-orderly-queue) |
+| [0920-number-of-music-playlists](https://github.com/bbaspkrrj08/leetcode/tree/master/0920-number-of-music-playlists) |
 | [0932-beautiful-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0932-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bbaspkrrj08/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1041-robot-bounded-in-circle](https://github.com/bbaspkrrj08/leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bbaspkrrj08/leetcode/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/bbaspkrrj08/leetcode/tree/master/0920-number-of-music-playlists) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/bbaspkrrj08/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/bbaspkrrj08/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0879-profitable-schemes](https://github.com/bbaspkrrj08/leetcode/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bbaspkrrj08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0920-number-of-music-playlists](https://github.com/bbaspkrrj08/leetcode/tree/master/0920-number-of-music-playlists) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0935-knight-dialer](https://github.com/bbaspkrrj08/leetcode/tree/master/0935-knight-dialer) |
 | [1043-partition-array-for-maximum-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
