@@ -11,8 +11,11 @@ class Solution {
             
             for (int j = n; j >= membersNeeded; j--) {
                 for (int k = minProfit; k >= 0; k--) {
+                    int skip = dp[j][k]; 
                     int prevProfit = Math.max(0, k - currentProfit);
-                    dp[j][k] = (dp[j][k] + dp[j - membersNeeded][prevProfit]) % MOD;
+                    int take = dp[j - membersNeeded][prevProfit];
+                    
+                    dp[j][k] = (skip + take) % MOD;
                 }
             }
         }
