@@ -1,44 +1,47 @@
 class Solution {
     int MOD = 1_000_000_007;
-    Integer[][] memo;
-    String corridor;
+    String S;
     int n;
+    Integer[][] dp;
 
     public int numberOfWays(String corridor) {
-        this.corridor = corridor;
+        this.S = corridor;
         this.n = corridor.length();
-        this.memo = new Integer[n][3];
+        this.dp = new Integer[n][3];
         
-        return solve(0, 0);
+        return f(0, 0);
     }
 
-    private int solve(int i, int seats) {
-        if (i == n) {
-            return seats == 2 ? 1 : 0;
-        }
-
-        if (memo[i][seats] != null) {
-            return memo[i][seats];
-        }
-
-        long ways = 0;
-        
-        if (seats == 2) {
-            if (corridor.charAt(i) == 'S') {
-                ways = solve(i + 1, 1); 
-            } else {
-                int putDivider = solve(i + 1, 0);
-                int skipDivider = solve(i + 1, 2);
-                ways = (putDivider + skipDivider) % MOD;
+    private int f(int i, int seat) {
+        if (i >= n) {
+            if (seat == 2) {
+                return 1;
             }
-        } else {
-            if (corridor.charAt(i) == 'S') {
-                ways = solve(i + 1, seats + 1);
+            return 0;
+        }
+
+        if (dp[i][seat] != null) {
+            return dp[i][seat];
+        }
+
+        long take = 0;
+        long not_take = 0;
+
+        if (S.charAt(i) == 'P') {
+            if (seat == 2) {
+                take = f(i + 1, 0);
+                not_take = f(i + 1, seat);
             } else {
-                ways = solve(i + 1, seats);
+                not_take = f(i + 1, seat); 
+            }
+        } else if (S.charAt(i) == 'S') {
+            if (seat == 2) {
+                take = f(i + 1, 1);
+            } else {
+                not_take = f(i + 1, seat + 1);
             }
         }
 
-        return memo[i][seats] = (int) ways;
+        return dp[i][seat] = (int) ((take + not_take) % MOD);
     }
 }
