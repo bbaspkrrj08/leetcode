@@ -1,27 +1,38 @@
 class Solution {
+    int MOD = 1_000_000_007;
+    int[] group;
+    int[] profit;
+    Integer[][][] memo; 
+
     public int profitableSchemes(int n, int minProfit, int[] group, int[] profit) {
-        int MOD = 1_000_000_007;
-        int[][] dp = new int[n + 1][minProfit + 1];
+        this.group = group;
+        this.profit = profit;
         
-        dp[0][0] = 1; 
+        memo = new Integer[group.length][n + 1][minProfit + 1];
         
-        for (int i = 0; i < group.length; i++) {
-            int m = group[i];
-            int p = profit[i];
-            
-            for (int j = n; j >= m; j--) {
-                for (int k = minProfit; k >= 0; k--) {
-                    int rem = Math.max(0, k - p);
-                    dp[j][k] = (dp[j][k] + dp[j - m][rem]) % MOD;
-                }
+        return f(0, n, minProfit, 0);
+    }
+
+    private int f(int i, int n, int minProfit, int curr_profit) {
+        if (i >= profit.length) {
+            if (curr_profit >= minProfit) {
+                return 1;
             }
+            return 0;
         }
-        
-        int ans = 0;
-        for (int j = 0; j <= n; j++) {
-            ans = (ans + dp[j][minProfit]) % MOD;
+
+        if (memo[i][n][curr_profit] != null) {
+            return memo[i][n][curr_profit];
         }
-        
-        return ans;
+
+        int take = 0;
+        if (n - group[i] >= 0) {
+            int next_profit = Math.min(minProfit, curr_profit + profit[i]);
+            take = f(i + 1, n - group[i], minProfit, next_profit);
+        }
+
+        int skip = f(i + 1, n, minProfit, curr_profit);
+
+        return memo[i][n][curr_profit] = (take + skip) % MOD;
     }
 }
