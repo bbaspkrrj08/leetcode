@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bbaspkrrj08/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/bbaspkrrj08/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2485-find-the-pivot-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/bbaspkrrj08/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bbaspkrrj08/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/bbaspkrrj08/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-percentage-of-letter-in-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bbaspkrrj08/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/bbaspkrrj08/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2707-extra-characters-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
