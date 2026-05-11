@@ -2,13 +2,13 @@ class Solution {
     int MOD = 1_000_000_007;
     int[] group;
     int[] profit;
-    Integer[][][] memo; 
+    Integer[][][] dp; 
 
     public int profitableSchemes(int n, int minProfit, int[] group, int[] profit) {
         this.group = group;
         this.profit = profit;
         
-        memo = new Integer[group.length][n + 1][minProfit + 1];
+        dp = new Integer[group.length][n + 1][minProfit + 1];
         
         return f(0, n, minProfit, 0);
     }
@@ -21,8 +21,8 @@ class Solution {
             return 0;
         }
 
-        if (memo[i][n][curr_profit] != null) {
-            return memo[i][n][curr_profit];
+        if (dp[i][n][curr_profit] != null) {
+            return dp[i][n][curr_profit];
         }
 
         int take = 0;
@@ -33,6 +33,6 @@ class Solution {
 
         int skip = f(i + 1, n, minProfit, curr_profit);
 
-        return memo[i][n][curr_profit] = (take + skip) % MOD;
+        return dp[i][n][curr_profit] = (take + skip) % MOD;
     }
 }
