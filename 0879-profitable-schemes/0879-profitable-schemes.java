@@ -6,25 +6,22 @@ class Solution {
         dp[0][0] = 1; 
         
         for (int i = 0; i < group.length; i++) {
-            int membersNeeded = group[i];
-            int currentProfit = profit[i];
+            int m = group[i];
+            int p = profit[i];
             
-            for (int j = n; j >= membersNeeded; j--) {
+            for (int j = n; j >= m; j--) {
                 for (int k = minProfit; k >= 0; k--) {
-                    int skip = dp[j][k]; 
-                    int prevProfit = Math.max(0, k - currentProfit);
-                    int take = dp[j - membersNeeded][prevProfit];
-                    
-                    dp[j][k] = (skip + take) % MOD;
+                    int rem = Math.max(0, k - p);
+                    dp[j][k] = (dp[j][k] + dp[j - m][rem]) % MOD;
                 }
             }
         }
         
-        int totalSchemes = 0;
+        int ans = 0;
         for (int j = 0; j <= n; j++) {
-            totalSchemes = (totalSchemes + dp[j][minProfit]) % MOD;
+            ans = (ans + dp[j][minProfit]) % MOD;
         }
         
-        return totalSchemes;
+        return ans;
     }
 }
