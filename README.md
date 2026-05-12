@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/bbaspkrrj08/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0994-rotting-oranges](https://github.com/bbaspkrrj08/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/bbaspkrrj08/leetcode/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bbaspkrrj08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bbaspkrrj08/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1043-partition-array-for-maximum-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bbaspkrrj08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bbaspkrrj08/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/1901-find-a-peak-element-ii) |
