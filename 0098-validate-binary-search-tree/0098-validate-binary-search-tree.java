@@ -1,20 +1,25 @@
 class Solution {
+    private Integer prev = null;
+
     public boolean isValidBST(TreeNode root) {
-        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        return inOrder(root);
     }
 
-    public boolean validate(TreeNode root, long min, long max) {
-        if (root == null) {
+    private boolean inOrder(TreeNode node) {
+        if (node == null) {
             return true;
         }
-        
-        if (root.val <= min || root.val >= max) {
+
+        if (!inOrder(node.left)) {
+            return false;
+        }
+
+        if (prev != null && node.val <= prev) {
             return false;
         }
         
-        boolean leftSubTree = validate(root.left, min, root.val);
-        boolean rightSubTree = validate(root.right, root.val, max);
-        
-        return leftSubTree && rightSubTree;
+        prev = node.val;
+
+        return inOrder(node.right);
     }
 }
