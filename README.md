@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/bbaspkrrj08/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/bbaspkrrj08/leetcode/tree/master/0413-arithmetic-slices) |
 | [0454-4sum-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/bbaspkrrj08/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/bbaspkrrj08/leetcode/tree/master/0456-132-pattern) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bbaspkrrj08/leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/bbaspkrrj08/leetcode/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0552-student-attendance-record-ii) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/bbaspkrrj08/leetcode/tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/bbaspkrrj08/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
