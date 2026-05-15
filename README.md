@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bbaspkrrj08/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/bbaspkrrj08/leetcode/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/bbaspkrrj08/leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bbaspkrrj08/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/bbaspkrrj08/leetcode/tree/master/0733-flood-fill) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bbaspkrrj08/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bbaspkrrj08/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -891,11 +893,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bbaspkrrj08/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bbaspkrrj08/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bbaspkrrj08/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bbaspkrrj08/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
