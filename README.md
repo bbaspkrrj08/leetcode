@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/bbaspkrrj08/leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bbaspkrrj08/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3462-vowels-game-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3794-reverse-string-prefix](https://github.com/bbaspkrrj08/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2707-extra-characters-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Monotonic Stack
 |  |
