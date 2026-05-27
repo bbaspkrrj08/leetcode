@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bbaspkrrj08/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/bbaspkrrj08/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/bbaspkrrj08/leetcode/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/bbaspkrrj08/leetcode/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/bbaspkrrj08/leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bbaspkrrj08/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bbaspkrrj08/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/bbaspkrrj08/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bbaspkrrj08/leetcode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/bbaspkrrj08/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/bbaspkrrj08/leetcode/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0474-ones-and-zeroes) |
