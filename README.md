@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bbaspkrrj08/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0576-out-of-boundary-paths](https://github.com/bbaspkrrj08/leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bbaspkrrj08/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bbaspkrrj08/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/0740-delete-and-earn) |
