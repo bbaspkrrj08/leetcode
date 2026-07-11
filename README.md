@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/bbaspkrrj08/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bbaspkrrj08/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bbaspkrrj08/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/bbaspkrrj08/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2352-equal-row-and-column-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/bbaspkrrj08/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/bbaspkrrj08/leetcode/tree/master/1871-jump-game-vii) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/bbaspkrrj08/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2485-find-the-pivot-integer](https://github.com/bbaspkrrj08/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/bbaspkrrj08/leetcode/tree/master/2615-sum-of-distances) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1871-jump-game-vii](https://github.com/bbaspkrrj08/leetcode/tree/master/1871-jump-game-vii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/bbaspkrrj08/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/bbaspkrrj08/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2707-extra-characters-in-a-string](https://github.com/bbaspkrrj08/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bbaspkrrj08/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
