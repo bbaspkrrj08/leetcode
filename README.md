@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bbaspkrrj08/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/bbaspkrrj08/leetcode/tree/master/3975-filter-occupied-intervals) |
 ## Greedy
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2864-maximum-odd-binary-number](https://github.com/bbaspkrrj08/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bbaspkrrj08/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/bbaspkrrj08/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bbaspkrrj08/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/bbaspkrrj08/leetcode/tree/master/3975-filter-occupied-intervals) |
 ## Counting Sort
 |  |
