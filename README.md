@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bbaspkrrj08/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1514-path-with-maximum-probability](https://github.com/bbaspkrrj08/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bbaspkrrj08/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bbaspkrrj08/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1833-find-the-highest-altitude](https://github.com/bbaspkrrj08/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/bbaspkrrj08/leetcode/tree/master/1402-reducing-dishes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bbaspkrrj08/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bbaspkrrj08/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bbaspkrrj08/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/bbaspkrrj08/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bbaspkrrj08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bbaspkrrj08/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bbaspkrrj08/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/bbaspkrrj08/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bbaspkrrj08/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
