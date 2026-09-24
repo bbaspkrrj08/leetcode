@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
 | [1975-maximum-matrix-sum](https://github.com/bbaspkrrj08/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bbaspkrrj08/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bbaspkrrj08/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/bbaspkrrj08/leetcode/tree/master/2090-k-radius-subarray-averages) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/bbaspkrrj08/leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bbaspkrrj08/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/bbaspkrrj08/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1871-jump-game-vii](https://github.com/bbaspkrrj08/leetcode/tree/master/1871-jump-game-vii) |
 | [1944-truncate-sentence](https://github.com/bbaspkrrj08/leetcode/tree/master/1944-truncate-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bbaspkrrj08/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/bbaspkrrj08/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bbaspkrrj08/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bbaspkrrj08/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1436-destination-city) |
 | [1488-avoid-flood-in-the-city](https://github.com/bbaspkrrj08/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/bbaspkrrj08/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/bbaspkrrj08/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bbaspkrrj08/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2418-sort-the-people](https://github.com/bbaspkrrj08/leetcode/tree/master/2418-sort-the-people) |
